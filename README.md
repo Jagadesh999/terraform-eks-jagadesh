@@ -1,4 +1,3 @@
-# terraform-eks-jagadesh
 # Terraform EKS Cluster - Jagadesh
 
 ## Overview
